@@ -16,4 +16,8 @@ public class Bomba
         this.X = x;
         this.Y = y;
     }
+    public void PintarBomba()
+    {
+
+    }
 }
