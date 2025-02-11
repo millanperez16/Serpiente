@@ -9,10 +9,6 @@ public class Bomba
 
     public Bomba()
     {
-    }
-
-    public Bomba()
-    {
         this.X = x;
         this.Y = y;
     }
